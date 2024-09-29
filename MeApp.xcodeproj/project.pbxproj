@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		296F127F2CA94DDC00B3D866 /* ShadenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F127E2CA94DDC00B3D866 /* ShadenView.swift */; };
 		5C9E79A02CA92A89002C52BE /* MeAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9E799F2CA92A89002C52BE /* MeAppApp.swift */; };
 		5C9E79A22CA92A89002C52BE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9E79A12CA92A89002C52BE /* ContentView.swift */; };
 		5C9E79A42CA92A8A002C52BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C9E79A32CA92A8A002C52BE /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		296F127E2CA94DDC00B3D866 /* ShadenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ShadenView.swift; path = "../../../Desktop/start working/v/my time/my time to shine/my time to shine/ShadenView.swift"; sourceTree = "<group>"; };
 		5C9E799C2CA92A89002C52BE /* MeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C9E799F2CA92A89002C52BE /* MeAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeAppApp.swift; sourceTree = "<group>"; };
 		5C9E79A12CA92A89002C52BE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 		5C9E799E2CA92A89002C52BE /* MeApp */ = {
 			isa = PBXGroup;
 			children = (
+				296F127E2CA94DDC00B3D866 /* ShadenView.swift */,
 				9D7809632CA945340092E90F /* ReemanView.swift */,
 				5C9E799F2CA92A89002C52BE /* MeAppApp.swift */,
 				5C9E79A12CA92A89002C52BE /* ContentView.swift */,
@@ -262,6 +265,7 @@
 			files = (
 				9D7809642CA945340092E90F /* ReemanView.swift in Sources */,
 				5C9E79A22CA92A89002C52BE /* ContentView.swift in Sources */,
+				296F127F2CA94DDC00B3D866 /* ShadenView.swift in Sources */,
 				5C9E79A02CA92A89002C52BE /* MeAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
