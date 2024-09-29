@@ -14,6 +14,7 @@
 		5C9E79B12CA92A8A002C52BE /* MeAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9E79B02CA92A8A002C52BE /* MeAppTests.swift */; };
 		5C9E79BB2CA92A8A002C52BE /* MeAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9E79BA2CA92A8A002C52BE /* MeAppUITests.swift */; };
 		5C9E79BD2CA92A8A002C52BE /* MeAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9E79BC2CA92A8A002C52BE /* MeAppUITestsLaunchTests.swift */; };
+		9D7809642CA945340092E90F /* ReemanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D7809632CA945340092E90F /* ReemanView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		5C9E79B62CA92A8A002C52BE /* MeAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C9E79BA2CA92A8A002C52BE /* MeAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeAppUITests.swift; sourceTree = "<group>"; };
 		5C9E79BC2CA92A8A002C52BE /* MeAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9D7809632CA945340092E90F /* ReemanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReemanView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 		5C9E799E2CA92A89002C52BE /* MeApp */ = {
 			isa = PBXGroup;
 			children = (
+				9D7809632CA945340092E90F /* ReemanView.swift */,
 				5C9E799F2CA92A89002C52BE /* MeAppApp.swift */,
 				5C9E79A12CA92A89002C52BE /* ContentView.swift */,
 				5C9E79A32CA92A8A002C52BE /* Assets.xcassets */,
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D7809642CA945340092E90F /* ReemanView.swift in Sources */,
 				5C9E79A22CA92A89002C52BE /* ContentView.swift in Sources */,
 				5C9E79A02CA92A89002C52BE /* MeAppApp.swift in Sources */,
 			);
