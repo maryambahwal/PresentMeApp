@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct SarahView: View {
     var body: some View {
         VStack(alignment: .center) {
             Image("Sarah")
@@ -26,5 +26,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    SarahView()
 }
